@@ -1,0 +1,38 @@
+body{
+background-color: #526D82;
+background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+/* color:#dde6ede0; */
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: #27374D;
+  padding-left:10px;
+}
+.navbar h2{
+  margin:15px;
+  color:#fff;
+}
+.navbar .logOut:hover{
+  color: #FF6969;
+  background-color: #1b2d4d;
+}
+.workingHours{
+  position: relative;
+  top:20px;
+}
+
+.search-sec{
+  width:50%;
+  margin:20px auto;
+}
+.details-sec{
+  width:60%;
+  margin:100px auto;
+}
+
+.MuiFormHelperText-root {
+  color: #D21312 !important;
+  
+}
